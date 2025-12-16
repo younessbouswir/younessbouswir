@@ -14,13 +14,13 @@
 
 ## 🛠️ Tools & Technologies
 
-**Languages: ** Python, JavaScript, HTML, CSS, C#, VB.NET, C, C++, PHP
+**Languages:** Python, JavaScript, HTML, CSS, C#, VB.NET, C, C++, PHP
 
-**Frameworks & Libraries: ** React, Expo / React Native, Electron, Tauri, PyQt6, ASP.NET
+**Frameworks & Libraries:** React, Expo / React Native, Electron, Tauri, PyQt6, ASP.NET
 
 **Databases: ** SQL Server
 
-**Modeling / Design: ** UML, MERISE
+**Modeling / Design:** UML, MERISE
 
 **Tools: ** Git, GitHub, VS Code, Figma
 
