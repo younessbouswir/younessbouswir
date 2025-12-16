@@ -1,4 +1,4 @@
-# Youness Bouswir
+# Corvynex
 
 🎓 **Computer Science Student** & **Software Developer**
 
