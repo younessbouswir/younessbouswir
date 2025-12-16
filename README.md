@@ -14,10 +14,36 @@
 
 ## 🛠️ Tools & Technologies
 
-* **Frontend:** HTML, CSS, JavaScript, React
-* **Mobile:** React Native
-* **Backend / Languages:** Python, Java, PHP, C, C++
-* **Tools:** Git, GitHub, VS Code
+**Languages**
+
+* Python
+* JavaScript
+* HTML, CSS
+* C#, VB.NET
+* C, C++
+* PHP
+
+**Frameworks & Libraries**
+
+* React
+* Expo / React Native
+* Electron, Tauri
+* PyQt6
+* ASP.NET
+
+**Databases**
+
+* SQL Server
+
+**Modeling / Design**
+
+* UML, MERISE
+
+**Tools**
+
+* Git, GitHub
+* VS Code
+* Figma
 
 ---
 
