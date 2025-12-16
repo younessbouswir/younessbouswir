@@ -18,11 +18,11 @@
 
 **Frameworks & Libraries:** React, Expo / React Native, Electron, Tauri, PyQt6, ASP.NET
 
-**Databases: ** SQL Server
+**Databases:** SQL Server
 
 **Modeling / Design:** UML, MERISE
 
-**Tools: ** Git, GitHub, VS Code, Figma
+**Tools:** Git, GitHub, VS Code, Figma
 
 ---
 
