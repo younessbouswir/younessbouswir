@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm 👋
 
-<!--
-**younessbouswir/younessbouswir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** & **Software Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 Who am I?
+
+I am a computer science student passionate about software development. I enjoy building practical projects and continuously improving my skills.
+
+---
+
+## 🔨 What am I currently working on?
+
+* Improving my skills through real-world projects
+* Building web, desktop, and mobile applications
+* Learning and experimenting with new technologies
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Mobile:** React Native
+* **Backend / Languages:** Python, Java, PHP, C, C++
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📫 How to reach me?
+
+* GitHub: [https://github.com/your-username](https://github.com/younessbouswir)
+* Email: [your.email@example.com](mailto:younessbouswir1@gmai.com)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
