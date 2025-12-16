@@ -1,19 +1,13 @@
-# Hi, I'm 👋
+# Youness Bouswir
 
 🎓 **Computer Science Student** & **Software Developer**
 
 ---
 
-## 👤 Who am I?
+## 🔨 Current Work
 
-I am a computer science student passionate about software development. I enjoy building practical projects and continuously improving my skills.
-
----
-
-## 🔨 What am I currently working on?
-
-* Improving my skills through real-world projects
 * Building web, desktop, and mobile applications
+* Improving skills through real-world projects
 * Learning and experimenting with new technologies
 
 ---
@@ -27,11 +21,11 @@ I am a computer science student passionate about software development. I enjoy b
 
 ---
 
-## 📫 How to reach me?
+## 📫 Contact
 
-* GitHub: [https://github.com/your-username](https://github.com/younessbouswir)
-* Email: [your.email@example.com](mailto:younessbouswir1@gmai.com)
+* GitHub: [https://github.com/younessbouswir](https://github.com/younessbouswir)
+* Email: [younessbouswir1@gmail.com](mailto:younessbouswir1@gmail.com)
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Explore my repositories and feel free to connect!
