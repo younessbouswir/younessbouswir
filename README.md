@@ -1,4 +1,4 @@
-# Corvynex
+# Aksil
 
 🎓 **Computer Science Student** & **Software Developer**
 
